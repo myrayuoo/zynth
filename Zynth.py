@@ -33,8 +33,8 @@ def launch():
     except FileNotFoundError:
         open("config.json", "w").write(json.dumps({
             "name": "Zynth",
-            "url": "https://raw.githubusercontent.com/xellu/zynth/main/zynth.png",
-            "icon": "",
+            "url": "",
+            "icon": "https://raw.githubusercontent.com/xellu/zynth/main/zynth.png",
             "hider": 0,
             "use_default": 0
         }))
