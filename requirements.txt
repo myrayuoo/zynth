@@ -1,0 +1,5 @@
+requests
+threading
+discord_webhook
+discord
+colorama
