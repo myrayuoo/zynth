@@ -20,7 +20,7 @@ pi = f"    {pr}[Z] {inp}" #input prefix
 su = f"    {pr}[+]{sc} " #success
 er = f"    {pr}[!]{sc} " #error
 
-debug_mode = True
+debug_mode = False
 
 #FUNCTIONS---------
 
